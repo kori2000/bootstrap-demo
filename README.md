@@ -3,21 +3,7 @@
 [![Unicorn](https://img.shields.io/badge/nyancat-approved-ff69b4.svg)](https://www.youtube.com/watch?v=QH2-TGUlwu4)
 
 Simple bootstrap demonstration with webpack for a simple javaScript applications.
-
-![Screenshot](https://raw.githubusercontent.com/kori2000/bootstrap-demo/main/screenshot.png)
-
-## Installation
-
-Please adjust the `.env.example` file before starting the container.
-
-```bash
-# Replace .env.example with .env to work in prod enviroment
-
-# Server Settings
-SERVER_PORT=3000
-```
-
-### Features
+##### Features
 
 - Babel Loader
 - Sass Loader With Dart Sass
@@ -26,6 +12,20 @@ SERVER_PORT=3000
 - Asset Resource Loader
 - Source Maps
 - Caching
+
+![Screenshot](https://raw.githubusercontent.com/kori2000/bootstrap-demo/main/screenshot.png)
+
+## Installation
+
+Please adjust the `.env.example` file before starting the container.
+
+```bash
+# Replace .env.example with .env to work in prod environment
+
+# Server Settings
+SERVER_PORT=3000
+SERVER_DNS=localhost
+```
 
 ## Starting
 
