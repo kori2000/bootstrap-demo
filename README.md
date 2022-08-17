@@ -12,8 +12,18 @@ Please adjust the .env file before starting the Container.
 # Replace .ent.test with .env to work in prod enviroment
 
 # Server Settings
-SERVER_PORT=
+SERVER_PORT=3000
 ```
+
+### Features
+
+- Babel Loader
+- Sass Loader With Dart Sass
+- HTMLWebpackPlugin
+- WebpackDevServer
+- Asset Resource Loader
+- Source Maps
+- Caching
 
 ## Starting
 
