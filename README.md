@@ -4,7 +4,7 @@
 
 Simple bootstrap demonstration with webpack for a simple javaScript applications.
 
-![Screenshot](https://raw.githubusercontent.com/kori2000/bootstrap-demo/main/jokeAppScreen.png)
+![Screenshot](https://raw.githubusercontent.com/kori2000/bootstrap-demo/main/screenshot.png)
 
 ## Installation
 
