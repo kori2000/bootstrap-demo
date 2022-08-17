@@ -2,16 +2,16 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/kori2000/telegram-bot/blob/main/LICENSE)
 [![Unicorn](https://img.shields.io/badge/nyancat-approved-ff69b4.svg)](https://www.youtube.com/watch?v=QH2-TGUlwu4)
 
-Simple Bootstrap Demonstration with Webpack for a Frontend JavaScript applications.
+Simple bootstrap demonstration with webpack for a simple javaScript applications.
 
 ![Screenshot](https://raw.githubusercontent.com/kori2000/bootstrap-demo/main/jokeApp.png)
 
 ## Installation
 
-Please adjust the .env file before starting the Container.
+Please adjust the .env file before starting the container.
 
 ```bash
-# Replace .ent.test with .env to work in prod enviroment
+# Replace .env.test with .env to work in prod enviroment
 
 # Server Settings
 SERVER_PORT=3000
