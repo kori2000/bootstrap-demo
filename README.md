@@ -38,6 +38,9 @@ make up
 
 # 🛑 Stop docker container
 make down
+
+# 🚽 Remove docker image
+make remove
 ```
 
 ## Contributing
