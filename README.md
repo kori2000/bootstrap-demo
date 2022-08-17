@@ -4,6 +4,8 @@
 
 Simple Bootstrap Demonstration with Webpack for a Frontend JavaScript applications.
 
+![Screenshot](https://raw.githubusercontent.com/kori2000/bootstrap-demo/main/jokeApp.png)
+
 ## Installation
 
 Please adjust the .env file before starting the Container.
