@@ -8,10 +8,10 @@ Simple bootstrap demonstration with webpack for a simple javaScript applications
 
 ## Installation
 
-Please adjust the .env file before starting the container.
+Please adjust the `.env.example` file before starting the container.
 
 ```bash
-# Replace .env.test with .env to work in prod enviroment
+# Replace .env.example with .env to work in prod enviroment
 
 # Server Settings
 SERVER_PORT=3000
